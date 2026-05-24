@@ -37,9 +37,7 @@ With professional experience in the **industrial automation sector**, I bridge t
 
 ## 📊 Most Used Languages
 
-<p align="center">
-  <img src="https://loki.abcw.cc/api/top-langs/?username=DawidWawrzeniuk&layout=compact&theme=visual_studio_dark&hide_border=true" alt="Most Used Languages" />
-</p>
+![Languages Metrics](https://raw.githubusercontent.com/DawidWawrzeniuk/DawidWawrzeniuk/main/github-metrics.svg)
 
 ## 🐍 My Contribution Snake
 
