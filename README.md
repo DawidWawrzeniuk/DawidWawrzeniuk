@@ -23,7 +23,7 @@ With professional experience in the **industrial automation sector**, I bridge t
 
 ### Industrial Automation & Drives:
 ![Industrial Automation](https://img.shields.io/badge/Industrial_Automation-008080?style=for-the-badge) ![Siemens S7](https://img.shields.io/badge/Siemens_S7-009999?style=for-the-badge&logo=siemens&logoColor=white) ![Profinet](https://img.shields.io/badge/Profinet-E2001A?style=for-the-badge) ![Modbus](https://img.shields.io/badge/Modbus_/_Fieldbus-2980B9?style=for-the-badge)
-![VFD / Inverters](https://img.shields.io/badge/VFD_/_Inverters_(Falowniki)-D35400?style=for-the-badge) ![Servo Drives](https://img.shields.io/badge/Servo_Drives-E67E22?style=for-the-badge) ![Switchgear & Controlgear](https://img.shields.io/badge/Switchgear_/_Contactors_(Styczniki)-7F8C8D?style=for-the-badge)
+![VFD / Inverters](https://img.shields.io/badge/VFD_/_Inverters_(Falowniki)-D35400?style=for-the-badge) ![Servo Drives](https://img.shields.io/badge/Servo_Drives-E67E22?style=for-the-badge) ![Switchgear & Controlgear](https://img.shields.io/badge/Switchgear_/_Contactors_-7F8C8D?style=for-the-badge)
 
 ### Wireless & IoT Protocols:
 ![BLE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white) ![LoRa](https://img.shields.io/badge/LoRa-00EEFF?style=for-the-badge&logo=lora&logoColor=black) ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-00529B?style=for-the-badge) ![FSK](https://img.shields.io/badge/FSK_Modulation-9B59B6?style=for-the-badge)
