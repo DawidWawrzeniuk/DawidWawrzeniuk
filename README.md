@@ -37,8 +37,8 @@ With professional experience in the **industrial automation sector**, I bridge t
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DawidWawrzeniuk&theme=visual_studio_dark" alt="GitHub Details" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DawidWawrzeniuk&theme=visual_studio_dark" alt="Most Used Languages" height="180" />
+  <img src="https://raw.githubusercontent.com/DawidWawrzeniuk/DawidWawrzeniuk/output/github-stats.svg" alt="GitHub Stats" height="150" />
+  <img src="https://raw.githubusercontent.com/DawidWawrzeniuk/DawidWawrzeniuk/output/top-langs.svg" alt="Most Used Languages" height="150" />
 </p>
 
 ## 🐍 My Contribution Snake
