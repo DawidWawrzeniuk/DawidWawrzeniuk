@@ -34,11 +34,12 @@ With professional experience in the **industrial automation sector**, I bridge t
 ### Lab Instrumentation & Debugging:
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope_%26_Logic_Analyzers-708090?style=for-the-badge) ![GDB/J-Link](https://img.shields.io/badge/Debuggers_--_GDB_/_J--Link-008080?style=for-the-badge)
 
-## 📊 My GitHub Stats
+## 📊 Profile Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DawidWawrzeniuk/DawidWawrzeniuk/output/github-stats.svg" alt="GitHub Stats" height="150" />
-  <img src="https://raw.githubusercontent.com/DawidWawrzeniuk/DawidWawrzeniuk/output/top-langs.svg" alt="Most Used Languages" height="150" />
+<p align="left">
+  <img src="https://img.shields.io/github/followers/DawidWawrzeniuk?label=Followers&style=for-the-badge&color=2980b9" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/DawidWawrzeniuk?label=Total%20Stars&style=for-the-badge&color=f1c40f" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=DawidWawrzeniuk&color=brightgreen&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
 </p>
 
 ## 🐍 My Contribution Snake
