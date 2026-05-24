@@ -33,3 +33,9 @@ With professional experience in the **industrial automation sector**, I bridge t
 
 ### Lab Instrumentation & Debugging:
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope_%26_Logic_Analyzers-708090?style=for-the-badge) ![GDB/J-Link](https://img.shields.io/badge/Debuggers_--_GDB_/_J--Link-008080?style=for-the-badge)
+
+
+
+## 🐍 My Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/DawidWawrzeniuk/DawidWawrzeniuk/output/github-contribution-grid-snake.svg)
