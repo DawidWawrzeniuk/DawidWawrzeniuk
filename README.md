@@ -29,7 +29,9 @@ With professional experience in the **industrial automation sector**, I bridge t
 ![BLE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white) ![LoRa](https://img.shields.io/badge/LoRa-00EEFF?style=for-the-badge&logo=lora&logoColor=black) ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-00529B?style=for-the-badge) ![FSK](https://img.shields.io/badge/FSK_Modulation-9B59B6?style=for-the-badge)
 
 ### Embedded Linux:
-![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Yocto Project](https://img.shields.io/badge/Yocto_Project-002D62?style=for-the-badge&logo=linux-foundation&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Yocto Project](https://img.shields.io/badge/Yocto_Project-002D62?style=for-the-badge&logo=linux-foundation&logoColor=white)
+![Qt Creator](https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Lab Instrumentation & Debugging:
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope_%26_Logic_Analyzers-708090?style=for-the-badge) ![GDB/J-Link](https://img.shields.io/badge/Debuggers_--_GDB_/_J--Link-008080?style=for-the-badge)
