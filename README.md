@@ -19,7 +19,16 @@ With professional experience in the **industrial automation sector**, I bridge t
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-34495E?style=for-the-badge) ![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2C3E50?style=for-the-badge&logo=freebsd&logoColor=white) ![RTOS](https://img.shields.io/badge/RTOS-4A4A4A?style=for-the-badge)
 
 ### Low-Level & Hardware Interfacing:
-![Low Level Drivers](https://img.shields.io/badge/Low_Level_C_Drivers-FF5733?style=for-the-badge) ![SPI](https://img.shields.io/badge/SPI-4B0082?style=for-the-badge) ![I2C](https://img.shields.io/badge/I2C-2E8B57?style=for-the-badge) ![UART](https://img.shields.io/badge/UART-8B0000?style=for-the-badge) ![CAN](https://img.shields.io/badge/CAN_Bus-FF8C00?style=for-the-badge)
+![Low Level Drivers](https://img.shields.io/badge/Low_Level_C_Drivers-FF5733?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-4B0082?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-2E8B57?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-8B0000?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN_Bus-FF8C00?style=for-the-badge)
+![DMA](https://img.shields.io/badge/DMA-4682B4?style=for-the-badge)
+![ADC](https://img.shields.io/badge/ADC-DA70D6?style=for-the-badge)
+![GPIO](https://img.shields.io/badge/GPIO-708090?style=for-the-badge)
+![Timers](https://img.shields.io/badge/Timers-FF69B4?style=for-the-badge)
+![PWM](https://img.shields.io/badge/PWM-20B2AA?style=for-the-badge)
 
 ### Industrial Automation & Drives:
 ![Industrial Automation](https://img.shields.io/badge/Industrial_Automation-008080?style=for-the-badge) ![Siemens S7](https://img.shields.io/badge/Siemens_S7-009999?style=for-the-badge&logo=siemens&logoColor=white) ![Profinet](https://img.shields.io/badge/Profinet-E2001A?style=for-the-badge) ![Modbus](https://img.shields.io/badge/Modbus_/_Fieldbus-2980B9?style=for-the-badge)
