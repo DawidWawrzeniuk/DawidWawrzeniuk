@@ -15,8 +15,15 @@ With professional experience in the **industrial automation sector**, I bridge t
 ### Core Languages:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-4EAA25?style=for-the-badge)
 
-### Hardware Architecture & RTOS:
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-34495E?style=for-the-badge) ![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2C3E50?style=for-the-badge&logo=freebsd&logoColor=white) ![RTOS](https://img.shields.io/badge/RTOS-4A4A4A?style=for-the-badge)
+### Hardware Architecture, RTOS & FPGA:
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-34495E?style=for-the-badge)
+![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2C3E50?style=for-the-badge&logo=freebsd&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-4A4A4A?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-8E44AD?style=for-the-badge)
+![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge)
+![Intel FPGA](https://img.shields.io/badge/Intel_FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ### Low-Level & Hardware Interfacing:
 ![Low Level Drivers](https://img.shields.io/badge/Low_Level_C_Drivers-FF5733?style=for-the-badge)
@@ -45,10 +52,6 @@ With professional experience in the **industrial automation sector**, I bridge t
 ### Lab Instrumentation & Debugging:
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope_%26_Logic_Analyzers-708090?style=for-the-badge) ![GDB/J-Link](https://img.shields.io/badge/Debuggers_--_GDB_/_J--Link-008080?style=for-the-badge)
 
-
-## 📊 Most Used Languages
-
-![Languages Metrics](https://raw.githubusercontent.com/DawidWawrzeniuk/DawidWawrzeniuk/main/github-metrics.svg)
 
 ## 🐍 My Contribution Snake
 
