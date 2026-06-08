@@ -13,7 +13,11 @@ With professional experience in the **industrial automation sector**, I bridge t
 ## All the things I use:
 
 ### Core Languages:
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-4EAA25?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-4EAA25?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-6C3483?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-8E44AD?style=for-the-badge)
 
 ### Hardware Architecture, RTOS & FPGA:
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-34495E?style=for-the-badge)
