@@ -51,6 +51,7 @@ With professional experience in the **industrial automation sector**, I bridge t
 ### Embedded Linux:
 ![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Yocto Project](https://img.shields.io/badge/Yocto_Project-002D62?style=for-the-badge&logo=linux-foundation&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Qt Creator](https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Lab Instrumentation & Debugging:
