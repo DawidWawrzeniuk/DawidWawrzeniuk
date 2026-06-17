@@ -58,16 +58,14 @@ With professional experience in the **industrial automation sector**, I bridge t
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope_%26_Logic_Analyzers-708090?style=for-the-badge) ![GDB/J-Link](https://img.shields.io/badge/Debuggers_--_GDB_/_J--Link-008080?style=for-the-badge)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DawidWawrzeniuk&show_icons=true&theme=tokyonight" width="100%"/>
-  <br/>
-  <sub>📊 Moje statystyki GitHub</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=DawidWawrzeniuk&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawidWawrzeniuk&layout=compact&theme=tokyonight" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawidWawrzeniuk&layout=compact&theme=tokyonight" width="100%"/>
-  <br/>
-  <sub>🧠 Najczęściej używane języki</sub>
+  <sub>📊 Moje statystyki GitHub &nbsp;&nbsp; | &nbsp;&nbsp; 🧠 Najczęściej używane języki</sub>
 </p>
+
 
 
 
