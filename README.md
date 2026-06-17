@@ -65,8 +65,9 @@ With professional experience in the **industrial automation sector**, I bridge t
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00AEEF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;ASP.NET+Core+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:004466&height=180&section=header&text=Embedded%20Developer&fontSize=45&fontColor=00AEEF" />
 </p>
+
 
 
 
