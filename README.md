@@ -3,9 +3,6 @@
 </p>
 
 ## About me 👋
-
-
-
 I'm an Embedded Systems Developer passionate about bare-metal programming, Real-Time Operating Systems (RTOS), and hardware-software integration. 
 
 With professional experience in the **industrial automation sector**, I bridge the gap between low-level firmware and heavy industrial hardware (drives, switchgear, and actuators). Currently focusing on firmware architecture, custom Linux distributions, and low-power wireless communication for IoT applications.
