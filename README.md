@@ -57,12 +57,18 @@ With professional experience in the **industrial automation sector**, I bridge t
 ### Lab Instrumentation & Debugging:
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope_%26_Logic_Analyzers-708090?style=for-the-badge) ![GDB/J-Link](https://img.shields.io/badge/Debuggers_--_GDB_/_J--Link-008080?style=for-the-badge)
 
-<h3 align="center">📊 Moje statystyki GitHub &nbsp;&nbsp; | &nbsp;&nbsp; 🧠 Najczęściej używane języki</h3>
+<h3 align="center">📊 Moje statystyki GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DawidWawrzeniuk&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawidWawrzeniuk&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DawidWawrzeniuk&show_icons=true&theme=tokyonight" width="70%" />
 </p>
+
+<h3 align="center">🧠 Najczęściej używane języki</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawidWawrzeniuk&layout=compact&theme=tokyonight" width="70%" />
+</p>
+
 
 
 
