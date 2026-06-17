@@ -64,6 +64,9 @@ With professional experience in the **industrial automation sector**, I bridge t
 
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00AEEF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;ASP.NET+Core+Developer" />
+</p>
 
 
 
