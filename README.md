@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:004466&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=45&fontColor=FFFFFF" />
+</p>
+
 # Hi there 👋
 
 I'm an Embedded Systems Developer passionate about bare-metal programming, Real-Time Operating Systems (RTOS), and hardware-software integration. 
@@ -61,14 +65,6 @@ With professional experience in the **industrial automation sector**, I bridge t
   <img src="https://github-readme-stats.vercel.app/api?username=DawidWawrzeniuk&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawidWawrzeniuk&layout=compact&theme=tokyonight" width="49%" />
 </p>
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:004466&height=180&section=header&text=Embedded%20Developer&fontSize=45&fontColor=00AEEF" />
-</p>
-
-
 
 
 
