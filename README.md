@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:004466&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=45&fontColor=FFFFFF" />
 </p>
 ## About me 👋
+
+
+
 I'm an Embedded Systems Developer passionate about bare-metal programming, Real-Time Operating Systems (RTOS), and hardware-software integration. 
 
 With professional experience in the **industrial automation sector**, I bridge the gap between low-level firmware and heavy industrial hardware (drives, switchgear, and actuators). Currently focusing on firmware architecture, custom Linux distributions, and low-power wireless communication for IoT applications.
