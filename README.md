@@ -58,6 +58,7 @@ With professional experience in the **industrial automation sector**, I bridge t
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope_%26_Logic_Analyzers-708090?style=for-the-badge) ![GDB/J-Link](https://img.shields.io/badge/Debuggers_--_GDB_/_J--Link-008080?style=for-the-badge)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DawidWawrzeniuk&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawidWawrzeniuk&layout=compact&theme=tokyonight)
 
 
 ## 🐍 My Contribution Snake
